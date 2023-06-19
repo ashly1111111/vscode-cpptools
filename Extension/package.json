@@ -2451,7 +2451,7 @@
     "plist": "^3.0.1",
     "tmp": "^0.1.0",
     "vscode-cpptools": "^5.0.0",
-    "vscode-extension-telemetry": "^0.1.2",
+    "vscode-extension-telemetry": "^0.4.5",
     "vscode-languageclient": "^5.2.1",
     "vscode-nls": "^4.1.1",
     "which": "^2.0.2",
